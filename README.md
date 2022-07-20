@@ -8,3 +8,7 @@ A tool to transform a video source to ascii code output
 2. On the root of the project, activate environment using the command.
    `source video_ascii_dev/bin/activate`
 3. Run `pip install -r requirements.txt` to install dependencies.
+
+## New dependencies
+
+- Run `pip freeze --local > requirements.txt` to save new dependencies.
